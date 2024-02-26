@@ -1,7 +1,13 @@
 # Big-Data-Stream-Processing
 Realtime Monitoring von Produktionsprozessen
 
+## 📌 Systemarchitektur :
+
 ![Architektur](Bilder/Meine%20Architektur.png)
+
+## 📌 Ergebnis :
+
+![Dashboard](Bilder/Grafana-Dashboard.png)
 
 ## 📌 Beschreibung :
 
