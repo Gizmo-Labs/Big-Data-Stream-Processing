@@ -1,0 +1,11 @@
+apiVersion: 1
+
+providers:
+  - name: PRODUCTION
+    folder: "IU Fallstudie Big Data"
+    folderUid: ""
+    options:
+      path: "/grafana-dashboard-rotorwind-production"
+    orgI": 1
+    type: "file"
+
